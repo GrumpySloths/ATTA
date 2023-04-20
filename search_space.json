@@ -1,0 +1,10 @@
+{
+    "num_iter":{"_type":"randint","_value":[8,13]},
+    "num_epoch":{"_type":"randint","_value":[8,15]},
+    "alpha1":{"_type":"uniform","_value":[0.0,1.0]},
+    "alpha2":{"_type":"uniform","_value":[0.0,1.0]},
+    "gamma":{"_type":"uniform","_value":[0.0,1.0]}
+
+
+
+}
