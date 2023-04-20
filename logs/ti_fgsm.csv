@@ -1,0 +1,5 @@
+,InceptionV3,AdvInceptionV3,Ens3AdvInceptionV3,Ens4AdvInceptionV3,InceptionV4,InceptionResnetV2,EnsAdvInceptionResnetV2,resnet_v2
+InceptionV3,1.0,0.08,0.079,0.08,0.227,0.203,0.04,0.179
+InceptionV4,0.325,0.078,0.084,0.083,0.997,0.223,0.045,0.17600000000000002
+InceptionResnetV2,0.353,0.096,0.119,0.094,0.296,0.976,0.065,0.224
+resnet_v2,0.327,0.11,0.12300000000000001,0.122,0.266,0.252,0.07400000000000001,0.993
