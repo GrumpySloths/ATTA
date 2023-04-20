@@ -1,5 +1,5 @@
 # ATTA paper verify
-**该仓库是对ATTA论文的代码实现
+**该仓库是对ATTA论文的代码实现**
 ## Directory Structure
 * `defense/` 论文中SOTA defense方法的实现代码
 * `dev_data/` 该文件目录下的`val_rs`包含本次实验的攻击测试样本，样本来自于[here](https://drive.google.com/drive/folders/1CfobY6i8BfqfWPHL31FKFDipNjqWwAhS),`val_rs.csv`包含攻击测试样本所对应的标签
